@@ -1,0 +1,24 @@
+{
+  "name": "@robb1010/npm-lesson",
+  "version": "1.0.0",
+  "description": "Learning npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repostitory": "http://github.com/robb1010",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robb1010/npm-lesson.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Robb1010/npm-lesson/issues"
+  },
+  "homepage": "https://github.com/Robb1010/npm-lesson#readme"
+}
