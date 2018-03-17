@@ -1,5 +1,5 @@
 {
-  "name": "@robb1010/npm-lesson",
+  "name": "npm-lesson",
   "version": "1.0.0",
   "description": "Learning npm",
   "main": "index.js",
@@ -15,7 +15,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Robb1010/npm-lesson.git"
+    "url": "git+ssh://git@github.com:Robb1010/npm-lesson.git#master"
   },
   "bugs": {
     "url": "https://github.com/Robb1010/npm-lesson/issues"
